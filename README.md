@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m @reoccurdev
+- 👀 I’m interested in Python and discord.py
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on discord.py projects
+- 📫 How to reach me: you can reach me using my email, which is [osvy58af1@relay.firefox.com](mailto:osvy58af1@relay.firefox.com)
 
 <!--
 **reoccurdev/reoccurdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
